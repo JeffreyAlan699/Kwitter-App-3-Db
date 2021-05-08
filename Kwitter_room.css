@@ -1,0 +1,17 @@
+#btn1{
+    margin-left: 1200px;
+}
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/39/530/391/abstraction-geometry-abstract-design-background-hd-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login_div
+{
+	background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    width:40%;
+    height: 50%;
+    border-color: mediumblue;
+}
